@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Aa12345",
+        "JWT_KEY": "tinder"
+    }
+}
